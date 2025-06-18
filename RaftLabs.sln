@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaftLabs.UserService.ConsoleApp", "RaftLabs.UserService.ConsoleApp\RaftLabs.UserService.ConsoleApp.csproj", "{4946CCC2-2105-4C44-9E40-D50F4E5ED5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaftLabs.UserService.DTO", "RaftLabs.UserService.DTO\RaftLabs.UserService.DTO.csproj", "{3B3183C1-8775-4ED2-B243-AF8250B7B83E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaftLabs.UserService.Interface", "RaftLabs.UserService.Interface\RaftLabs.UserService.Interface.csproj", "{BE5693CA-F7F9-4CC7-BF8D-73778EC406ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaftLabs.UserService.Persistence", "RaftLabs.UserService.Persistence\RaftLabs.UserService.Persistence.csproj", "{E278E2D9-0032-462D-9916-8CC402799125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaftLabs.UserService.UnitTest", "RaftLabs.UserService.UnitTest\RaftLabs.UserService.UnitTest.csproj", "{A7238266-B3FF-42A1-A79B-C6A0EC2A97B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4946CCC2-2105-4C44-9E40-D50F4E5ED5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4946CCC2-2105-4C44-9E40-D50F4E5ED5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4946CCC2-2105-4C44-9E40-D50F4E5ED5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4946CCC2-2105-4C44-9E40-D50F4E5ED5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3183C1-8775-4ED2-B243-AF8250B7B83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3183C1-8775-4ED2-B243-AF8250B7B83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3183C1-8775-4ED2-B243-AF8250B7B83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3183C1-8775-4ED2-B243-AF8250B7B83E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5693CA-F7F9-4CC7-BF8D-73778EC406ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5693CA-F7F9-4CC7-BF8D-73778EC406ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5693CA-F7F9-4CC7-BF8D-73778EC406ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5693CA-F7F9-4CC7-BF8D-73778EC406ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E278E2D9-0032-462D-9916-8CC402799125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E278E2D9-0032-462D-9916-8CC402799125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E278E2D9-0032-462D-9916-8CC402799125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E278E2D9-0032-462D-9916-8CC402799125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7238266-B3FF-42A1-A79B-C6A0EC2A97B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7238266-B3FF-42A1-A79B-C6A0EC2A97B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7238266-B3FF-42A1-A79B-C6A0EC2A97B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7238266-B3FF-42A1-A79B-C6A0EC2A97B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

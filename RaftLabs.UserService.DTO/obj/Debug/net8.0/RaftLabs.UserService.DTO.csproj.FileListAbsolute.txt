@@ -1,0 +1,12 @@
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.DTO\bin\Debug\net8.0\RaftLabs.UserService.DTO.deps.json
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.DTO\bin\Debug\net8.0\RaftLabs.UserService.DTO.dll
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.DTO\bin\Debug\net8.0\RaftLabs.UserService.DTO.pdb
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.DTO\obj\Debug\net8.0\RaftLabs.UserService.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.DTO\obj\Debug\net8.0\RaftLabs.UserService.DTO.AssemblyInfoInputs.cache
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.DTO\obj\Debug\net8.0\RaftLabs.UserService.DTO.AssemblyInfo.cs
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.DTO\obj\Debug\net8.0\RaftLabs.UserService.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.DTO\obj\Debug\net8.0\RaftLabs.UserService.DTO.sourcelink.json
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.DTO\obj\Debug\net8.0\RaftLabs.UserService.DTO.dll
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.DTO\obj\Debug\net8.0\refint\RaftLabs.UserService.DTO.dll
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.DTO\obj\Debug\net8.0\RaftLabs.UserService.DTO.pdb
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.DTO\obj\Debug\net8.0\ref\RaftLabs.UserService.DTO.dll

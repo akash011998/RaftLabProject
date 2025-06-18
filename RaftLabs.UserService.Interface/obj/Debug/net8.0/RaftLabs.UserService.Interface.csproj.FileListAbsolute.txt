@@ -1,0 +1,16 @@
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\bin\Debug\net8.0\RaftLabs.UserService.Interface.deps.json
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\bin\Debug\net8.0\RaftLabs.UserService.Interface.dll
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\bin\Debug\net8.0\RaftLabs.UserService.Interface.pdb
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\bin\Debug\net8.0\RaftLabs.UserService.DTO.dll
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\bin\Debug\net8.0\RaftLabs.UserService.DTO.pdb
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\obj\Debug\net8.0\RaftLabs.UserService.Interface.csproj.AssemblyReference.cache
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\obj\Debug\net8.0\RaftLabs.UserService.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\obj\Debug\net8.0\RaftLabs.UserService.Interface.AssemblyInfoInputs.cache
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\obj\Debug\net8.0\RaftLabs.UserService.Interface.AssemblyInfo.cs
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\obj\Debug\net8.0\RaftLabs.UserService.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\obj\Debug\net8.0\RaftLabs.UserService.Interface.sourcelink.json
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\obj\Debug\net8.0\RaftLabs.20DA2D51.Up2Date
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\obj\Debug\net8.0\RaftLabs.UserService.Interface.dll
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\obj\Debug\net8.0\refint\RaftLabs.UserService.Interface.dll
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\obj\Debug\net8.0\RaftLabs.UserService.Interface.pdb
+C:\Users\Client\Desktop\AkashGupta\NEW\RaftLabs\RaftLabs.UserService.Interface\obj\Debug\net8.0\ref\RaftLabs.UserService.Interface.dll
